@@ -1,3 +1,5 @@
+import { Pessoa } from './interfaces/pessoa/pessoa.interface'
+
 let pessoa: Pessoa = {
     nome: 'Marcus',
     idade: 17,

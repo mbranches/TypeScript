@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var pessoa = {
     nome: 'Marcus',
     idade: 17,
